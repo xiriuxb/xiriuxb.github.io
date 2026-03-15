@@ -1,1 +1,0 @@
-import{j as e,G as a}from"./index-CMOG-8Pc.js";import"./vendor-DuFLwEG1.js";const n=[{name:"JavaScript"},{name:"TypeScript"},{name:"C#"}],i=()=>e.jsx(a,{children:e.jsxs("section",{className:"page",children:[e.jsx("h1",{style:{display:"inline-block"},children:"Herramientas"}),e.jsx("div",{children:n.map(s=>e.jsx("text",{children:s.name}))})]})});export{i as default};
